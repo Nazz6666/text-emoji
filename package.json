@@ -1,27 +1,27 @@
 {
-    "name": "text-emoji",
-    "displayName": "text-emoji",
-    "description": "insert cute text emoji to you code",
-    "version": "0.0.1",
-    "publisher": "Nazz6666",
-    "repository": {
+	"name": "text-emoji",
+	"displayName": "text-emoji",
+	"description": "insert cute text emoji to you code",
+	"version": "0.0.1",
+	"publisher": "Nazz6666",
+	"repository": {
 		"type": "git",
 		"url": "https://github.com/Nazz6666/text-emoji"
 	},
-    "icon": "icon.png",
-    "engines": {
-        "vscode": "^1.46.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "javascript",
-                "path": "./snippets/snippets.code-snippets"
-            },
-            {
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.46.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
 				"language": "php",
 				"path": "./snippets/snippets.code-snippets"
 			},
@@ -85,6 +85,11 @@
 				"language": "vue",
 				"path": "./snippets/snippets.code-snippets"
 			}
-        ]
-    }
+		]
+	},
+	"__metadata": {
+		"id": "26f5d393-02e9-4902-bb40-7f5f4246b49f",
+		"publisherDisplayName": "Nazz6666",
+		"publisherId": "4384a9d7-a231-4635-8291-3dd19ee86e78"
+	}
 }

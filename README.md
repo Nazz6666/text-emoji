@@ -1,6 +1,6 @@
 # text-emoji README
 
-Use :bearhi or :cattail for emoji i'm new here please don't mad at me and stay turn for update more emoji >.<
+Use :bearhi or :cattail for emoji i'm new here please don't mad at me and stay turn for update more cute emoji >.< YAY!
 
 <!-- ## Features
 
