@@ -1,0 +1,13 @@
+{    
+    "bear-hi-emoji" : { 
+      "prefix": ":bearhi", 
+      "body": ["ʕ•́ᴥ•̀ʔっ"],      
+      "description": "bear Hi"
+    },
+    
+    "cat-tail-emoji" : { 
+      "prefix": ":cattail", 
+      "body": ["(⌯˙ ຶ ˙⌯ ^)∫"],      
+      "description": "cat with tail"
+    }
+}

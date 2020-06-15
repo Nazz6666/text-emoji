@@ -1,0 +1,85 @@
+{
+    "name": "text-emoji",
+    "displayName": "text-emoji",
+    "description": "text emoji",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+				"language": "php",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "css",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "git-commit",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "go",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "java",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "markdown",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "jade",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "python",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "vb",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "xml",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "vue",
+				"path": "./snippets/snippets.code-snippets"
+			}
+        ]
+    }
+}
