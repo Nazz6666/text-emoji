@@ -1,8 +1,8 @@
 # text-emoji README
 
-This is the README for your extension "text-emoji". After writing up a brief description, we recommend including the following sections.
+Use :bearhi or :cattail for emoji i'm new here please don't mad at me and stay turn for update more emoji >.<
 
-## Features
+<!-- ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
@@ -62,4 +62,4 @@ Added features X, Y, and Z.
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+**Enjoy!** -->
