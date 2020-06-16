@@ -4,10 +4,61 @@
       "body": ["ʕ•́ᴥ•̀ʔっ"],      
       "description": "bear Hi"
     },
+    "bear-angry" : {
+      "prefix": ":bearangry",
+      "body": ["ʕ； •`ᴥ•´ʔ"],
+      "description": "bear angry"
+    },
+    "bear-close-eyes" : {
+      "prefix": ":bearclosedeyes",
+      "body": ["⊂(￣(ｴ)￣)⊃"],
+      "description": "bear closesd eyes"
+    },
     
     "cat-tail-emoji" : { 
       "prefix": ":cattail", 
       "body": ["(⌯˙ ຶ ˙⌯ ^)∫"],      
       "description": "cat with tail"
+    },
+    "cat-wave" : {
+      "prefix": ":catwave",
+      "body": ["👋≧◉ᴥ◉≦"],
+      "description": "cat wave"
+    },
+    "cat-love" : {
+      "prefix": ":catlove",
+      "body": ["（=´∇｀=）"],
+      "description": "cat love"
+    },
+
+    "face-fight" : {
+      "prefix": ":facefight",
+      "body": ["(ง︡'-'︠)ง"],
+      "description": "face fighting!"
+    },
+    "face-cry" : {
+      "prefix": ":facecry",
+      "body": ["ಥ_ಥ"],
+      "description": "face cry"
+    },
+    "face-no" : {
+      "prefix": ":faceno",
+      "body": ["¯\_(ツ)_/¯"],
+      "description": "face no"
+    },
+    "face-smile" : {
+      "prefix": ":facesmile",
+      "body": ["( ͡° ͜ʖ ͡°)"],
+      "description": "face smile"
+    },
+    "face-angry" : {
+      "prefix": ":faceangry",
+      "body": ["ಠ_ಠ"],
+      "description": "face angry"
+    },
+    "face-kiss" : {
+      "prefix": ":facekiss",
+      "body": ["(づ￣ ³￣)づ"],
+      "description": "face kiss"
     }
 }
