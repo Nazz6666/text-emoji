@@ -1,7 +1,8 @@
-# text-emoji README
+# text-emoji (=w=)
 
 Use :bearhi or :cattail for emoji i'm new here please don't mad at me and stay turn for update more cute emoji >.< YAY!
 
+![demo](https://user-images.githubusercontent.com/66929966/84722351-27ca6500-afad-11ea-8f51-deafb053ea4a.gif)
 <!-- ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
