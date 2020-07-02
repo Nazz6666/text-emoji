@@ -1,164 +1,204 @@
 {    
     "bear-hi-emoji" :{ 
-      "prefix": ":bearhi", 
+      "prefix": ":bearHi", 
       "body": ["ʕ•́ᴥ•̀ʔっ"],      
       "description": "bear Hi"
     },
     "bear-angry" :{
-      "prefix": ":bearangry",
+      "prefix": ":bearAngry",
       "body": ["ʕ； •`ᴥ•´ʔ"],
       "description": "bear angry"
     },
     "bear-close-eyes" :{
-      "prefix": ":bearclosedeyes",
+      "prefix": ":bearClosedEyes",
       "body": ["⊂(￣(ｴ)￣)⊃"],
       "description": "bear closesd eyes"
-    },
+    },    
  ////////////////////////////////////////////////////////   
     "cat-tail-emoji" :{ 
-      "prefix": ":cattail", 
+      "prefix": ":catTail", 
       "body": ["(⌯˙ ຶ ˙⌯ ^)∫"],      
       "description": "cat with tail"
     },
     "cat-wave" :{
-      "prefix": ":catwave",
+      "prefix": ":catWave",
       "body": ["👋≧◉ᴥ◉≦"],
       "description": "cat wave"
     },
     "cat-love" :{
-      "prefix": ":catlove",
+      "prefix": ":catLove",
       "body": ["（=´∇｀=）"],
       "description": "cat love"
     },
     "cat-love2":{
-      "prefix": ":catlove2",
+      "prefix": ":catLove2",
       "body": ["(≚ᄌ≚)ℒℴѵℯ❤"],
       "description": "cat love with LOVE letter"
     },
     "cat-fluffy":{
-      "prefix": ":catfluffy",
+      "prefix": ":catFluffy",
       "body": ["(ृʾ́꒳ʿ̀ ृ　)ु"],
       "description": "cat fluffy"
     },
     "cat-paw":{
-      "prefix": ":catpaw",
+      "prefix": ":catPaw",
       "body": ["(ฅ^･ω･^ ฅ)"],
       "description": "cat with paw"
     },
     "cat-paw":{
-      "prefix": ":catpawnyan",
+      "prefix": ":catPawNyan",
       "body": ["ฅ(⌯͒• ɪ •⌯͒)ฅnya～ﾝ❣"],
       "description": "cat show paw and say nyan"
     },
     "cat-doingthing":{
-      "prefix": ":catdoing",
+      "prefix": ":catDoing",
       "body": ["~(=^･･^)_旦~ (ﾟoﾟ;)"],
       "description": "cat doing thing"
     },
     "cat-many-cat":{
-      "prefix": ":catmany",
+      "prefix": ":catMany",
       "body": ["₍˄·͈༝·͈˄₍˄·͈༝·͈˄( ͒ ु•·̫• ू ͒)˄·͈༝·͈˄₎˄·͈༝·͈˄₎"],
       "description": "cat many cat"
     },
     "cat-fancy-eyed":{
-      "prefix": ":catfancyeyed",
+      "prefix": ":catFancyEyed",
       "body": ["(✦థ ｪ థ)"],
     },
 
 //////////////////////////////////////////////////////////
     "face-fight" :{
-      "prefix": ":facefight",
+      "prefix": ":faceFight",
       "body": ["(ง︡'-'︠)ง"],
       "description": "face fighting!"
     },
     "face-cry" :{
-      "prefix": ":facecry",
+      "prefix": ":faceCry",
       "body": ["ಥ_ಥ"],
       "description": "face cry"
     },
     "face-no" :{
-      "prefix": ":faceno",
+      "prefix": ":faceNo",
       "body": ["¯\_(ツ)_/¯"],
       "description": "face no"
     },
     "face-smile" :{
-      "prefix": ":facesmile",
+      "prefix": ":faceSmile",
       "body": ["( ͡° ͜ʖ ͡°)"],
       "description": "face smile"
     },
     "face-angry" :{
-      "prefix": ":faceangry",
+      "prefix": ":faceAngry",
       "body": ["ಠ_ಠ"],
       "description": "face angry"
     },
     "face-kiss" :{
-      "prefix": ":facekiss",
+      "prefix": ":faceKiss",
       "body": ["(づ￣ ³￣)づ"],
       "description": "face kiss"
     },
     "face-wink" :{
-      "prefix": ":facewink",
+      "prefix": ":faceWink",
       "body": ["( ͡~ ͜ʖ ͡°)"],
       "description": "face wink"
     },
     "face-angry-papa":{
-      "prefix": ":faceangrypapa",
+      "prefix": ":faceAngryPapa",
       "body": ["O̲ppa̲ (っ-̶●̃益●̶̃)っ ,︵‿ S̲t̲yl̲e̲"],
       "description": "face papa angry"
     },
     "face-phew":{
-      "prefix": ":facephew",
+      "prefix": ":facePhew",
       "body": ["(っ＾▿＾)💨"],
       "description": "face phew"
     },
     "face-sendlove":{
-      "prefix": ":facesendlove",
+      "prefix": ":faceSendLove",
       "body": ["(ɔ◔‿◔)ɔ ♥"],
       "description": "face send love"
     },
+    "face-hitman":{
+      "prefix": "faceHitman",
+      "body": ["̿̿ ̿̿ ̿̿ ̿'̿''( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿"],
+      "description": "I'm Hitman"
+    },
+    "face-really":{
+     "prefix": "faceRLY",
+     "body": ["﴾͡๏̯͡๏﴿ O'RLY?"],
+     "description": "RLY?"
+    },
+    "face-rolling":{
+     "prefix": "faceRoll",
+     "body": ["(._.) ( l: ) ( .-. ) ( :l ) (._.)"],
+     "description": "Rolling"
+    },
+    "face-fliptable":{
+     "prefix": "faceFlipTable",
+     "body": ["┬──┬ ノ( ゜-゜ノ)"],
+     "description": "face fliped table"
+    },
+   "face-f-u":{
+     "prefix": "faceFU",
+     "body": ["( ͡° ͜ʖ ͡°)╭∩╮"],
+     "description": "face show finger FU" 
+    },
+    "face-boobs":{
+      "prefix": "faceBoobs",
+      "body": ["( • )( • )ԅ(≖⌣≖ԅ)"],
+      "description": "face catch boobs" 
+    },
+    "face-yes":{
+      "prefix": "faceYes",
+      "body": ["╭( ･ㅂ･)و ̑̑"],
+      "description": "face YES!"
+    },
+    "face-yay-aura":{
+      "prefix": "faceYayAura",
+      "body": ["＼＼ ٩(๑❛ワ❛๑)و //／／"],
+      "description": "face YAY with aura power"
+    },
 ////////////////////////////////////////////////////////
     "rabbit-ears":{
-      "prefix": ":rabbitbigears",
+      "prefix": ":rabbitBigEars",
       "body": ["U(⁎˃ᆺ˂)U"],
       "description": "rabbit ear"
     },
     "rabbit-earsdown":{
-      "prefix": ":rabbitearsdown",
+      "prefix": ":rabbiTearsDown",
       "body": ["／(=⌒x⌒=)＼"],
       "description": "rabbit ear down"
     },
     "rabit-earsdown2":{
-      "prefix": ":rabbitearsdown2",
+      "prefix": ":rabbiTearsDown2",
       "body": ["/ (,,Ő ｘ Ő,,)＼"],
       "description": "rabbit ears down 2"
     },
     "rabbit-wink-earsdown":{
-      "prefix": ":rabbitwinkearsdown",
+      "prefix": ":rabbiTwinkEarsDown",
       "body": ["／(◕ x < )＼"],
       "description": "rabbit wink ears down"
     },
     "rabbit-rounded-ears":{
-      "prefix": ":rabbitroundedears",
+      "prefix": ":rabbiTroundedEars",
       "body": ["⌒(｡･.･｡)⌒"],
       "description": "rabbit rounded ears"
     },
     "rabbit-rounded-ears2":{
-      "prefix": ":rabbitroundedears2",
+      "prefix": ":rabbiTroundedEars2",
       "body": ["⌒(,,Ő ｘ Ő,,)⌒"],
       "description": "rabbit rounded ears 2"
     },
     "rabbit-st-ears":{
-      "prefix": ":rabbitstears",
+      "prefix": ":rabbitStEars",
       "body": ["￣(•ㅅ•)￣"],
       "description": "rabbit stright out ears"
     },
      "rabbit-tiny":{
-       "prefix": "rabbittiny",
+       "prefix": "rabbitTiny",
        "body": ["⁽⁽˙˟˙⁾⁾"],
        "description": "tiny rabbit"
      },
      "rabbit-many-happy":{
-       "prefix": "rabbitmanyhappy",
+       "prefix": "rabbitManyHappy",
        "body": ["､., ⌒ ､., ⌒ ､., ⌒ ､., ⌒ ､., ⌒ ､., ⌒／(・ x ･)＼"],
        "description": "rabbit many happys"
      },
@@ -169,32 +209,32 @@
         "description": "pig"
       },
       "pig-angry":{
-        "prefix": ":pigangry",
+        "prefix": ":pigAngry",
         "body": ["▐ ᓀ (oo) ᓂ ▐"],
         "description": "pig angry",
       },
       "pig-run":{
-        "prefix": ":pigrun",
+        "prefix": ":pigRun",
         "body": ["ε=ε=ε=ε=ε=ヾ(；ﾟ(OO)ﾟ)ﾉ"],
         "description": "pig runing"
       },
       "pig-kameha":{
-        "prefix": ":pigkameha",
+        "prefix": ":pigKameha",
         "body": ["＝＝＝＝☆┣o(´(００)｀ )"],
         "description": "pig ka~me~ka~me~ha!"
       },
       "pig-snouts":{
-        "prefix": ":pigsnouts",
+        "prefix": ":pigSnouts",
         "body": ["(´･(∞)･｀)"],
         "description": "pig snouts"
       },
       "pig-angry":{
-        "prefix": ":pigangry",
+        "prefix": ":pigAngry",
         "body": ["ԅ〳 ᓀ (●●)) ᓂ 〵ง"],
         "description": "pig angry"
       },
       "pig-baby":{
-        "prefix": ":pigbaby",
+        "prefix": ":pigBaby",
         "body": ["૮⍝◜•⚇•◝⍝ა"],
         "description": "pig baby"
       },
@@ -216,42 +256,42 @@
         "description": "bird"
       },
       "bird-wing":{
-        "prefix": ":birdwink",
+        "prefix": ":birdWink",
         "body": ["⋛⋋( ‘Θ’)⋌⋚"],
         "description": "bird wink"
       },
       "bird-cute":{
-        "prefix": ":birdcute",
+        "prefix": ":birdCute",
         "body": ["(｡･ө･｡)"],
         "description": "bird cute"
       },
       "bird-no":{
-        "prefix": ":birdno",
+        "prefix": ":birdNo",
         "body": ["(⁰▿⁰三⁰▿⁰ ‧̣̥̇)"],
         "description": "bird no"
       },
       "bird-angry":{
-        "prefix": ":birdangry",
+        "prefix": ":birdAngry",
         "body": ["[ᓀ˵◇˵ᓂ]"],
         "description": "bird angry"
       },
       "bird-angry2":{
-        "prefix": ":birdangry2",
+        "prefix": ":birdAngry2",
         "body": ["o(｀◇´)○"],
         "description": "bird angry 2"
       },     
       "bird-beaks":{
-        "prefix": ":birdbeaks",
+        "prefix": ":birdBeaks",
         "body": ["（ﾟ∈ﾟ）"],
         "description": "bird beaks"
       },
       "bird-fat":{
-        "prefix": ":birdfat",
+        "prefix": ":birdFat",
         "body": ["꜀( ˊ̠˂˃ˋ̠ )꜆"],
         "description": "bird fat"
       },
       "bird-family":{
-        "prefix": ":birdfamily",
+        "prefix": ":birdFamily",
         "body": ["♡⃛◟( ˊ̱˂˃ˋ̱ )◞⸜₍ ˍ́˱˲ˍ̀ ₎⸝◟( ˊ̱˂˃ˋ̱ )◞♡⃛"],
         "description": "bird family happy"
       },
@@ -277,10 +317,49 @@
         "description": "dog2"
       },
       "dog-ears" :{
-        "prefix": ":dogears",
+        "prefix": ":dogEars",
         "body": ["▼o・ェ・o▼"],
         "description": "dog ears"
       },
-
-
+////////////////////////////////////////////////////////
+      "monkey":{
+        "prefix": "monkey",
+        "body": ["@・ꈊ・@"],
+        "description": "monkey"
+      },
+////////////////////////////////////////////////////////
+      "seal":{
+        "prefix": "seal",
+        "body": ["(^ᴥ^)"],
+        "description": "seal"
+      },   
+////////////////////////////////////////////////////////
+      "otter":{
+        "prefix": "otter",
+        "body": ["(:ᘌꇤ⁐ꃳ 三"],
+        "description": "otter"
+      },         
+      "otter-swiming":{
+        "prefix": "otterSwim",
+        "body": ["⁽⁽꜀(:3꜂ ꜆)꜄⁾⁾"],
+        "description": "otter swiming"
+      },
+////////////////////////////////////////////////////////
+      "snake":{
+        "prefix": "snake",
+        "body": ["～＞°）mニニニニ＝～"],
+        "description": "snake"
+      },
+////////////////////////////////////////////////////////
+      "hedgehog":{
+        "prefix": "hedgehog",
+        "body": ["੯ू❛ัू ໒꒱"],
+        "description": "hedgehog"
+      },
+      "hedgehog-run":{
+        "prefix": "hedgehogRun",
+        "body": ["੯”ړ ও͞=͟͟͞͞=͟͟͞͞=͟͟͞͞=͟͟͞͞=͟͟͞͞=͟͟͞͞"],
+        "description": "hedgehog run like sonic"
+      },
+            
 }
