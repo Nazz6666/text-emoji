@@ -13,7 +13,32 @@
       "prefix": ":bearClosedEyes",
       "body": ["⊂(￣(ｴ)￣)⊃"],
       "description": "bear closesd eyes"
+    },
+    "bear-pooh":{
+      "prefix": "bearPooh",
+      "body": ["ʕ •́؈•̀ ₎"],
+      "description": "bear pooh"
     },    
+    "bear-hurt":{
+      "prefix": "bearHurt",
+      "body": ["ʕ>⌓<｡ʔ"],
+      "description": "bear hurt"
+    },
+    "bear-clap":{
+      "prefix": "bearClap",
+      "body": ["☆｡､::｡.::･’ﾟ＼＼￣(ｴ)￣)♪clap clap♪(￣(ｴ)￣／／ﾟ’･::.｡::､｡☆"],
+      "description": "bear clap clap"
+    },
+    "bear-puch":{
+      "prefix": "bearPuch",
+      "body": ["(੭ ◕㉨◕)੭ =͟͟͞͞=͟͟͞͞三❆)’дº);,’:=͟͟͞͞"],
+      "description": "bear puch"
+    },
+    "bear-hifive":{
+      "prefix": "bearHifive",
+      "body": ["=ﾟ*｡:ﾟ+High(￫㉨￩)ﾊ(￫㉨￩)Five!+ﾟ*｡:ﾟ+"],
+      "description": "bearHifive"
+    },
  ////////////////////////////////////////////////////////   
     "cat-tail-emoji" :{ 
       "prefix": ":catTail", 
@@ -63,6 +88,21 @@
     "cat-fancy-eyed":{
       "prefix": ":catFancyEyed",
       "body": ["(✦థ ｪ థ)"],
+    },
+    "cat-sleep":{
+      "prefix": "catSleep",
+      "body": ["(≚ᄌ≚)ƶƵ"],
+      "description": "cat sleep"
+    },
+    "cat-ghost":{
+      "prefix": "catGhost",
+      "body": ["ଲ(⁃̗̀̂❍⃓ˑ̫❍⃓⁃̠́̂)ଲ"],
+      "description": "cat ghost"
+    },
+    "cat-pat-head":{
+      "prefix": "catPatHead",
+      "body": ["(*･∀･)／(=^・^=)"],
+      "description": "cat pat head"
     },
 
 //////////////////////////////////////////////////////////
@@ -155,6 +195,101 @@
       "prefix": "faceYayAura",
       "body": ["＼＼ ٩(๑❛ワ❛๑)و //／／"],
       "description": "face YAY with aura power"
+    },
+    "face-give-me":{
+      "prefix": "faceGiveme",
+      "body": ["ლ(´ڡ`ლ)"],
+      "description": "face give me you food"
+    },
+    "face-please":{
+      "prefix": "facePlease",
+      "body": ["(>人<)"],
+      "description": "face please"
+    },
+    "face-coffe":{
+      "prefix": "faceCoffe",
+      "body": ["( ˘▽˘)っ♨"],
+      "description": "face and coffe"
+    },
+    "face-drink":{
+      "prefix": "faceDrink",
+      "body": ["(*^◇^)_旦"],
+      "description": "face drink"
+    },
+    "face-cheer":{
+      "prefix": "faceCheer",
+      "body": ["(´・ω)ノ[|_|　|_|]ヽ(ω・｀)"],
+      "description": "face cheer beer"
+    },
+    "face-wtf":{
+      "prefix": "faceWTF",
+      "body": ["(◞≼●≽◟◞౪◟◞≼●≽◟)"],
+      "description": "face wut da fakkkk"
+    },
+    "face-freaky-eyes":{
+      "prefix": "faceFreakyEyes",
+      "body": ["༎ຶ‿༎ຶ"],
+      "description": "face freaky eyes"
+    },
+    "face-thinking":{
+      "prefix": "faceThinking",
+      "body": ["(；￢＿￢)"],
+      "description": "face thinking"
+    },
+    "face-i-see":{
+      "prefix": "faceISee",
+      "body": ["( ͡° ͜ʖ ͡°)"],
+      "description": "face i see what you did"
+    },
+    "face-palm":{
+      "prefix": "facePalm",
+      "body": ["(－‸ლ)"],
+      "description": "face palm"
+    },
+    "face-kicking":{
+      "prefix": "faceKick",
+      "body": ["ヽ( ･∀･)ﾉ┌┛Σ(ノ `Д´)ノ"],
+      "description": "face kicking"
+    },
+    "face-point-gun":{
+      "prefix": "facePointGun",
+      "body": ["(҂‾ ▵‾)︻デ═一 (˚▽˚’!)/"],
+      "description": "face point gun"
+    },
+    "face-sword":{
+      "prefix": "faceSword",
+      "body": ["(∩ ͡ ° ʖ ͡ °) ⊃-(===>"],
+      "description": "face sword"
+    },
+    "face-sword2":{
+      "prefix": "faceSword2",
+      "body": ["ᕦ[ •́ ﹏ •̀ ]⊃¤=[]::::::::>"],
+      "description": "face sword2"
+    },
+    "face-throw-bomb":{
+      "prefix": "faceThrowBomb",
+      "body": ["(っ ‘o’)ﾉ⌒ ~ ː̗̤̣̀̈̇ː̖́.•"],
+      "description": "face throw bombs"
+    },
+    "face-throw-bombs2":{
+      "prefix": "faceThrowBombs2",
+      "body": ["●~●~●~●~＼( >o<)ﾉ⌒*~●　　～*~●　　～*~●"],
+      "description": "face throw many bombs"
+    },
+    "face-shuriken":{
+      "prefix": "faceShuriken",
+      "body": ["(★´Д｀)ﾉ －－－＝＝＝≡≡≡ 卍"],
+      "description": "face throw shuriken"
+    },
+    "face-spray":{
+      "prefix": "faceSpray",
+      "body": ["!!( ･_･)r鹵~<巛巛巛(ﾟoﾟ;"],
+      "description": "face spray to face"
+    },
+    "face-hammer":{
+      "prefix": "faceHammer",
+      "body": ["(〃’▽’)_中☆{{{Д}}}"],
+      "description": "face hammer at face"
     },
 ////////////////////////////////////////////////////////
     "rabbit-ears":{
