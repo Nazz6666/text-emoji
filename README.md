@@ -1,7 +1,7 @@
 # text-emoji (=w=)
 
 How to use type prefix like :bearhi or :cattail or :facesmile for use emoji 
-please stay turnd update for more cute emoji (๑꒪▿꒪)* YAY!
+please stay tuned update for more cute emoji (๑꒪▿꒪)* YAY!
 
 Added animals birds, cats, dogs, pigs, rabbits, sheep  °˖✧◝(⁰▿⁰)◜✧˖°
 
