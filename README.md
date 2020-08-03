@@ -1,4 +1,4 @@
-# text-emoji (=w=)
+# text-emoji ( ͡~ ͜ʖ ͡°)
 
 How to use type prefix like :bearhi or :cattail or :facesmile for use emoji 
 please stay tuned update for more cute emoji (๑꒪▿꒪)* YAY!
