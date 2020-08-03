@@ -2,8 +2,9 @@
 
 How to use type prefix like :bearhi or :cattail or :facesmile for use emoji 
 please stay tuned update for more cute emoji (๑꒪▿꒪)* YAY!
-*If you can't use any commands please make sure you change language mode from .blade to HTML
-by click right down of you VBCODE menu*
+
+If you can't use any commands please make sure you change language mode from .blade to HTML
+by click right down of you VBCODE menu screen then change it
 
 Added animals birds, cats, dogs, pigs, rabbits, sheep  °˖✧◝(⁰▿⁰)◜✧˖°
 
